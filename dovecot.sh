@@ -43,9 +43,9 @@ $line"
 fi
 done
 
-echo "From: liangzhu@bii.a-star.edu.sg" > dovecot.txt
+echo "From: somebody@somewhere.somedomain" > dovecot.txt
 echo "Subject: $pairlist too many dovecot logins $d" >> dovecot.txt
-echo "To: liangzhu@bii.a-star.edu.sg" >> dovecot.txt
+echo "To: somebody@somewhere.somedomain" >> dovecot.txt
 echo " " >> dovecot.txt
 echo $lines >> dovecot.txt
 sendmail -vt < dovecot.txt
