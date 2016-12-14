@@ -1,0 +1,27 @@
+From: liangzhu@bii.a-star.edu.sg
+Subject:  20 suryay too many dovecot logins Nov 29
+To: liangzhu@bii.a-star.edu.sg
+ 
+
+ 
+ 
+Nov 29 02:43:44 auth(default): Info: shadow(suryay,64.193.92.195): lookup
+Nov 29 03:26:08 auth(default): Info: shadow(suryay,104.254.103.106): lookup
+Nov 29 06:40:02 auth(default): Info: shadow(suryay,69.71.162.98): lookup
+Nov 29 07:34:26 auth(default): Info: shadow(suryay,170.233.254.193): lookup
+Nov 29 08:23:18 auth(default): Info: shadow(suryay,162.212.196.71): lookup
+Nov 29 08:46:19 auth(default): Info: shadow(suryay,72.14.88.251): lookup
+Nov 29 09:19:12 auth(default): Info: shadow(suryay,205.157.150.81): lookup
+Nov 29 13:09:43 auth(default): Info: shadow(suryay,68.115.32.203): lookup
+Nov 29 13:14:41 auth(default): Info: shadow(suryay,206.124.14.183): lookup
+Nov 29 17:05:08 auth(default): Info: shadow(suryay,24.54.183.12): lookup
+Nov 29 17:49:22 auth(default): Info: shadow(suryay,75.128.213.127): lookup
+Nov 29 19:13:46 auth(default): Info: shadow(suryay,104.254.101.26): lookup
+Nov 29 20:03:50 auth(default): Info: shadow(suryay,104.192.67.11): lookup
+Nov 29 20:10:43 auth(default): Info: shadow(suryay,208.85.14.68): lookup
+Nov 29 20:18:30 auth(default): Info: shadow(suryay,216.212.229.236): lookup
+Nov 29 20:43:09 auth(default): Info: shadow(suryay,70.96.143.190): lookup
+Nov 29 21:36:28 auth(default): Info: shadow(suryay,72.14.83.191): lookup
+Nov 29 22:02:16 auth(default): Info: shadow(suryay,72.132.172.14): lookup
+Nov 29 23:01:44 auth(default): Info: shadow(suryay,174.105.165.216): lookup
+Nov 29 23:21:59 auth(default): Info: shadow(suryay,76.93.134.194): lookup
